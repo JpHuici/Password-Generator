@@ -62,13 +62,6 @@ You can deploy the project to a live system following the steps described in the
 * [Django](https://www.djangoproject.com/) - The web framework used
 * [Bootstrap](https://getbootstrap.com/) - CSS framework
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/your-username/django-password-generator/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Authors
 
 * **JpHuici** - *Initial work* - [My GitHub profile](https://github.com/JpHuici)
-
-
-
